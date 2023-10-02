@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "64f33b80dda4c46214c104ec"
+  },
+  "number": 2,
+  "description": "Những người sở hữu chỉ số số mệnh số 2 thường là những con người rất quyến rũ và khéo léo. Họ thường rất kiên nhẫn, khôn khéo và bình tĩnh trong mọi việc họ làm, nhưng đôi khi lại thiếu sự tự tin vào những quyết định của bản thân họ. Tính nhạy cảm của bạn cho phép bạn thực hiện công việc tốt và luôn mang lại sự tinh tế trong môi trường làm việc.",
+  "strengths": "Bên cạnh đó, những người sở hữu con số số mệnh số 2 thường có khả năng giao tiếp rất tốt đi kèm với khả năng thuyết phục bẩm sinh, nên họ dễ dàng gắn kết với tất cả mọi người xung quanh, đặc biệt họ luôn bảo vệ những người thân yêu khỏi những rủi ro.",
+  "weaknesses": "Tuy nhiên, một điểm yếu của chỉ số sứ mệnh số 2 là sự nhạy cảm quá mức. Điều này có thể khiến họ thường xuyên khóc hoặc ảnh hưởng đến người khác bằng cách kéo dài hoặc nói dối. Bên cạnh đó, khi làm việc họ thường xuyên lôi kéo bất chấp người khác và có thể nói dối để đem lại lợi ích và sự yên bình cho bản thân họ.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f33b80dda4c46214c104ed"
+  },
+  "number": 3,
+  "description": "Khi nói đến chỉ số sứ mệnh số 3, người ta thường nhắc đến sự sáng tạo vượt trội...",
+  "strengths": "Sáng tạo, lạc quan, khả năng tạo ra giải pháp.",
+  "weaknesses": "Phân tâm, thiếu kiên nhẫn, cảm tính.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f33b80dda4c46214c104ee"
+  },
+  "number": 4,
+  "description": "Người mang chỉ số số mệnh 4 là những người đáng tin cậy...",
+  "strengths": "Tính tổ chức, kiên nhẫn, bình tĩnh, đạt được thành công thực tế.",
+  "weaknesses": "Tham công tiếc việc, cứng nhắc, thất thường.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f33b80dda4c46214c104f0"
+  },
+  "number": 6,
+  "description": "Người mang chỉ số số mệnh 6 là những người đặng trọng tình cảm và gia đình...",
+  "strengths": "Sự hoàn hảo, tình cảm, trách nhiệm gia đình.",
+  "weaknesses": "Tự mãn, quá cầu toàn, can thiệp quá mức.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f33b80dda4c46214c104f1"
+  },
+  "number": 7,
+  "description": "Người mang chỉ số số mệnh 7 là những người sở hữu sự trầm lặng, mạnh mẽ và luôn suy nghĩ sâu sắc về mọi thứ và có trí tưởng tượng phong phú, dễ dàng trở thành thiên tài triết học hay công nghệ. ",
+  "strengths": "Sự trầm lặng, tinh tế, tâm hồn sâu sắc, triết học.",
+  "weaknesses": "Tuy nhiên, một điểm yếu của người này là thiếu sự lắng nghe từ mọi người, có xu hướng nghi ngờ, lén lút và ghen tỵ với người khác. Họ thường rất cố chấp với những quan điểm của bản thân họ, vì thế họ nên học cách chấp nhận những ý kiến khác nhau từ mọi người xung quanh để có thể có cách giải quyết tốt nhất cho bản thân họ.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f33b80dda4c46214c104f2"
+  },
+  "number": 8,
+  "description": "Người mang chỉ số số mệnh 8 là những người dễ đạt thành công...",
+  "strengths": "Lãnh đạo, trách nhiệm, làm việc chăm chỉ.",
+  "weaknesses": "Tàn nhẫn, thiếu kiên nhẫn, cảm xúc bị chi phối.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f33b80dda4c46214c104f3"
+  },
+  "number": 9,
+  "description": "Người mang chỉ số số mệnh 9 là những người có sức hấp dẫn và khiếu hài hước...",
+  "strengths": "Sức hấp dẫn, tầm nhìn rộng lớn, khả năng truyền cảm hứng.",
+  "weaknesses": "Nhút nhát, dễ tin người, lo lắng quá mức.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f33b80dda4c46214c104eb"
+  },
+  "number": 1,
+  "description": "Những người sở hữu chỉ số số mệnh là số 1 có những điểm nổi bật riêng...",
+  "strengths": "Sự độc lập, tinh thần lãnh đạo, khả năng thúc đẩy sự phát triển.",
+  "weaknesses": "Thiếu kiên nhẫn, cầu toàn, khó chịu với người khác.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f33b80dda4c46214c104f5"
+  },
+  "number": 22,
+  "description": "Chỉ số sứ mệnh 22 kết hợp khả năng tâm linh vượt trội với tư duy thực tế...",
+  "strengths": "Tự tin, tinh thần kỷ luật, khả năng lập kế hoạch.",
+  "weaknesses": "Tiêu cực, lười biếng, không nhận thức được sức mạnh của bản thân.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f33b80dda4c46214c104f6"
+  },
+  "number": 33,
+  "description": "Những người mang chỉ số sứ mệnh 33 là những người luôn hướng về những điều tốt đẹp...",
+  "strengths": "Tấm lòng hướng thiện, khả năng cảm hóa trái tim, tầm nhìn gia đình.",
+  "weaknesses": "Quá quan tâm, quá bảo vệ, khắt khe.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f33b80dda4c46214c104ef"
+  },
+  "number": 5,
+  "description": "Người mang chỉ số số mệnh 5 là những người yêu thích sự mạo hiểm...",
+  "strengths": "Yêu thích thách thức, tìm kiếm cuộc sống hoàn hảo.",
+  "weaknesses": "Thiếu kiên nhẫn, quyết định không suy nghĩ kỹ lưỡng.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f33b80dda4c46214c104f4"
+  },
+  "number": 11,
+  "description": "Chỉ số sứ mệnh 11 đại diện cho sự tốt bụng và là những con người thích sự hòa bình...",
+  "strengths": "Khả năng giao tiếp tốt, tham vọng lớn, lãnh đạo xuất sắc.",
+  "weaknesses": "Kiêu ngạo, không khoan nhượng với quan điểm khác.",
+  "__v": 0
+}]

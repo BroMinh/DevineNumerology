@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "64f3400b4db952e5f005e0c2"
+  },
+  "number": 1,
+  "description": "Thủ lĩnh",
+  "meaning": "Tính cách lãnh đạo, quyết đoán và độc lập. Những người có số biểu tượng 1 thường có tinh thần dẫn dắt và quyết tâm trong cuộc sống.",
+  "potential": "Có khả năng tự tin đứng dẫn đầu và đạt được thành công trong công việc mình lựa chọn.",
+  "challenge": "Cần học cách hợp tác và lắng nghe ý kiến của người khác để đạt được mục tiêu một cách hiệu quả hơn.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f3400b4db952e5f005e0c3"
+  },
+  "number": 2,
+  "description": "Người hòa giải",
+  "meaning": "Tính cách hòa nhã, hợp tác và nhân từ. Những người có số biểu tượng 2 thường có tinh thần nhạy cảm và muốn xây dựng môi trường hòa bình xung quanh mình.",
+  "potential": "Có khả năng hòa nhập và làm việc hợp tác với người khác, giúp đỡ và hỗ trợ mọi người xung quanh.",
+  "challenge": "Dễ bị quá nhạy cảm và dễ bị chi phối bởi ý kiến và cảm xúc của người khác.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f3400b4db952e5f005e0c4"
+  },
+  "number": 3,
+  "description": "Người truyền đạt",
+  "meaning": "Tính cách sáng tạo, thích vui vẻ và thú vị. Những người có số biểu tượng 3 thường có sự sáng tạo và tinh thần tự do trong cuộc sống.",
+  "potential": "Có khả năng thể hiện bản thân và truyền cảm hứng cho người khác thông qua nghệ thuật, sáng tạo và việc thể hiện bản thân.",
+  "challenge": "Dễ bị phân tâm và không kiên nhẫn trong công việc lâu dài.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f3400b4db952e5f005e0c5"
+  },
+  "number": 4,
+  "description": "Người thầy",
+  "meaning": "Tính cách chân thật, kiên nhẫn và cần cù. Những người có số biểu tượng 4 thường có tính kỷ luật và chịu khó trong cuộc sống.",
+  "potential": "Có khả năng xây dựng cơ sở vững chắc và đạt được thành công bền vững thông qua sự kiên nhẫn và nỗ lực.",
+  "challenge": "Dễ bị cứng nhắc và định kiến, cần học cách linh hoạt và thích ứng với những thay đổi.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f3400b4db952e5f005e0c6"
+  },
+  "number": 5,
+  "description": "Lữ khách",
+  "meaning": "Tính cách tự do, phiêu lưu và đa tài. Những người có số biểu tượng 5 thường có sự thích thú thú vị và khao khát khám phá cuộc sống.",
+  "potential": "Có khả năng thích ứng và thích thú đối mặt với những thay đổi và cuộc phiêu lưu trong cuộc sống.",
+  "challenge": "Dễ bị thiếu kiên nhẫn, không kiên định và dễ bị cuốn vào những trải nghiệm mới mẻ mà bỏ qua việc xây dựng nền tảng vững chắc.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f3400b4db952e5f005e0c7"
+  },
+  "number": 6,
+  "description": "Người mẹ",
+  "meaning": "Tính cách chăm sóc, yêu thương và đáng tin cậy. Những người có số biểu tượng 6 thường có lòng từ bi và khao khát chăm sóc gia đình và những người xung quanh.",
+  "potential": "Có khả năng tạo ra môi trường gia đình hòa thuận và yêu thương, chăm sóc và hỗ trợ người khác.",
+  "challenge": "Dễ bị quá quan tâm đến người khác và thiếu sự cân bằng giữa việc chăm sóc người khác và chăm sóc bản thân.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f3400b4db952e5f005e0c8"
+  },
+  "number": 7,
+  "description": "Người tìm kiếm đức tin",
+  "meaning": "Tính cách tò mò, sâu sắc và tìm kiếm ý nghĩa cuộc sống. Những người có số biểu tượng 7 thường có khả năng phân tích sâu sắc và tìm kiếm ý nghĩa đằng sau mọi thứ.",
+  "potential": "Có khả năng phát triển tâm hồn và tìm hiểu về bản chất thực sự của cuộc sống, dẫn đến sự thấu hiểu sâu sắc về thế giới.",
+  "challenge": "Dễ bị lạc hướng trong việc tìm kiếm và thiếu sự cân bằng giữa tình cảm và tình thần.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f3400b4db952e5f005e0c9"
+  },
+  "number": 8,
+  "description": "Người điều hành",
+  "meaning": "Tính cách quyền lực, khao khát thành công và kiên nhẫn. Những người có số biểu tượng 8 thường có tầm nhìn về thành công và khao khát kiểm soát về mặt vật chất.",
+  "potential": "Có khả năng đạt được thành công về mặt vật chất và quyền lực thông qua sự quyết đoán và kiên nhẫn.",
+  "challenge": "Dễ bị quá chú trọng vào thành công vật chất, thiếu sự cân bằng trong cuộc sống và dễ bị áp lực và căng thẳng.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f3400b4db952e5f005e0ca"
+  },
+  "number": 9,
+  "description": "Người theo chủ nghĩa nhân đạo",
+  "meaning": "Tính cách tỷ phú tình cảm, hướng ngoại và thông minh. Những người có số biểu tượng 9 thường có lòng từ bi và khao khát tạo ra những tác động tích cực cho xã hội và nhân loại.",
+  "potential": "Có khả năng tỏ ra tử tế và chân thành trong cuộc sống, đóng góp tích cực và tạo nên tác động lớn đối với thế giới.",
+  "challenge": "Dễ bị quá quan tâm đến chuyện lo xa, dễ mất tập trung vào bản thân và cảm giác cô đơn trong cuộc sống.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f3400b4db952e5f005e0cb"
+  },
+  "number": 10,
+  "description": "Người khám phá",
+  "meaning": "Tính cách khám phá, sáng tạo và kiên nhẫn. Những người có số biểu tượng 10 thường có tầm nhìn xa và khao khát khám phá những lĩnh vực mới.",
+  "potential": "Có khả năng thử nghiệm và khám phá những ý tưởng mới, dẫn đến sự phát triển sáng tạo và thành công trong việc đột phá.",
+  "challenge": "Dễ bị mất tập trung và thiếu sự ổn định trong việc theo đuổi nhiều ý tưởng cùng một lúc.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64f3400b4db952e5f005e0cc"
+  },
+  "number": 11,
+  "description": "Người nguyên tắc",
+  "meaning": "Tính cách tầm nhìn cao, nhạy bén và tôn thờ tri thức. Những người có số biểu tượng 11 thường có khả năng nhìn xa và hiểu rõ về tầm quan trọng của tri thức và trí tuệ.",
+  "potential": "Có khả năng nắm bắt những ý tưởng phức tạp và thấu hiểu sâu sắc về tầm quan trọng của sự phát triển tâm hồn.",
+  "challenge": "Dễ bị áp lực và căng thẳng trong việc đạt được tầm nhìn cao và cần học cách cân bằng giữa tri thức và thực tế cuộc sống.",
+  "__v": 0
+}]
